@@ -1,0 +1,12 @@
+{
+    "Default": {
+        "HardwareVersion": "1.0",
+        "FirmwareUpdateSteps": [
+            {
+                "VersionName": "v1.2.1",
+                "FilePath": "Nova2-fw-1-2-1.bin"
+            }
+        ]
+    },
+    "HardwareSpecifc": [ ]
+}
