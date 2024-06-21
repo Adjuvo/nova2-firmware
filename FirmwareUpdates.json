@@ -1,6 +1,6 @@
 {
     "Default": {
-        "HardwareVersion": "1.0",
+        "HardwareVersion": "Default",
         "FirmwareUpdateSteps": [
             {
                 "VersionName": "v1.2.1",
