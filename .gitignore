@@ -1,1 +1,2 @@
 #Gitignore for nova2-firmware
+*.bak
