@@ -3,8 +3,8 @@
         "HardwareVersion": "Default",
         "FirmwareUpdateSteps": [
             {
-                "VersionName": "v1.2.3",
-                "FilePath": "Nova2-fw-1-2-3.bin"
+                "VersionName": "v1.2.5",
+                "FilePath": "Nova2-fw-1-2-5.bin"
             }
         ]
     },
